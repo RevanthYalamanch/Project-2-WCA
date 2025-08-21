@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+requests
+beautifulsoup4
+pydantic
+google-generativeai
+python-dotenv
+selenium
+webdriver-manager
+fpdf2
+bleach
+langdetect
+matplotlib
